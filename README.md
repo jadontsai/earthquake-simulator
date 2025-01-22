@@ -3,4 +3,4 @@
 
 # Students will learn about civil engineering principles, amplification, etc and gain an appreciation for the engineering process.
 
-# The tools to create the model should be available in a high school/university shop: the floor is designed to be made from wood, and the piston can either be 3d printed or milled fairly simply. To run the vibration machine, the only required tool is a drill (ideally variable speed but it doesn't really matter).
+# The tools to create the model should be available in a high school/university shop: the floor is designed to be made from wood, and the yoke can milled fairly simply. To run the vibration machine, the only required tool is a drill (ideally variable speed but it doesn't really matter).
